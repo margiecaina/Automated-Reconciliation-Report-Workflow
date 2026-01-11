@@ -1,6 +1,6 @@
 # Automated Reconciliation Report Workflow
 
-![Workflow Diagram](https://github.com/user-attachments/assets/c22711b6-6024-4f3a-ad5a-9cda7688a2e8)
+![Workflow Diagram](https://github.com/user-attachments/assets/5b823b8c-bd6e-4f32-9a5b-bc336bd11bf0)
 
 ## Overview
 This project demonstrates an **Automated Reconciliation Report** workflow using Alteryx (portfolio-safe version with dummy data).  
