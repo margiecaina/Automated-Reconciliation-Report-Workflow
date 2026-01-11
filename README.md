@@ -6,7 +6,7 @@
 This project demonstrates an **Automated Reconciliation Report** workflow using Alteryx (portfolio-safe version with dummy data).  
 The workflow automates the extraction, reconciliation, and reporting of ticket data between multiple sources, producing a ready-to-share report while ensuring accuracy and reducing manual effort.  
 
-> ⚠️ **Note:** This repository uses **dummy data for demonstration**. The production workflow is company-owned and confidential.
+> ⚠️ **Note:** This repository contains a **portfolio version of a workflow I personally designed**. It uses **dummy data for demonstration purposes**. The production workflow is implemented separately in the company environment for operational use.
 
 ---
 
